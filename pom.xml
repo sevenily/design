@@ -37,6 +37,7 @@
         <module>demo-adapter-model-6-01</module>
         <module>demo-design-bridge-7-01</module>
         <module>demo-design-combin-8-01</module>
+        <module>action-08-strategy/action-08-strategy</module>
     </modules>
 
 
