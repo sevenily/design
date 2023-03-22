@@ -1,0 +1,4 @@
+server:
+  port: 9908
+  servlet:
+    context-path: /singleton

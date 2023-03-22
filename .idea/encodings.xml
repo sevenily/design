@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/demo-abstract-factory-00/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-abstract-factory-00/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-abstract-factory-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-abstract-factory-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-adapter-model-6-00/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-adapter-model-6-00/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-adapter-model-6-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-adapter-model-6-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-builder-design-3-00/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-builder-design-3-00/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-builder-design-3-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-builder-design-3-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-builder-design-3-02/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-builder-design-3-02/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-common/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-design-bridge-7-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-design-bridge-7-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-design-combin-8-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-design-combin-8-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-factory-method-00/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-factory-method-00/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-factory-model-01/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-factory-model-01/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-prototype-factory-4-00/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-prototype-factory-4-00/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-singleton-model-00/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo-singleton-model-00/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+  </component>
+</project>

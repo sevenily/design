@@ -1,0 +1,5 @@
+
+server:
+  port: 9903
+  servlet:
+    context-path: /abstract

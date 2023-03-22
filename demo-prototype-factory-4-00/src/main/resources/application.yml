@@ -1,0 +1,5 @@
+
+server:
+  port: 9906
+  servlet:
+    context-path: /prototype

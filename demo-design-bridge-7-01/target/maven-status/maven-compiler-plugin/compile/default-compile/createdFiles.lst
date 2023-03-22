@@ -1,0 +1,8 @@
+org\design\channel\ZfbPay.class
+org\design\channel\WxPay.class
+org\design\Main.class
+org\design\channel\Pay.class
+org\design\mode\PayCypher.class
+org\design\mode\IPayMode.class
+org\design\mode\PayFingerprintMode.class
+org\design\mode\PayFaceMode.class

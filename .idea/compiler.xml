@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="demo-adapter-model-6-00" />
+        <module name="demo-adapter-model-6-01" />
+        <module name="demo-abstract-factory-01" />
+        <module name="demo-factory-model-01" />
+        <module name="demo-prototype-factory-4-00" />
+        <module name="demo-bulider-design-3-00" />
+        <module name="demo-factory-method-00" />
+        <module name="demo-design-bridge-7-01" />
+        <module name="demo-singleton-model-00" />
+        <module name="demo-builder-design-3-01" />
+        <module name="demo-builder-design-3-02" />
+        <module name="demo-common" />
+        <module name="demo-design-combin-8-01" />
+        <module name="demo-abstract-factroy-00" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="demo-abstract-factory-01" target="1.8" />
+      <module name="demo-abstract-factroy-00" target="1.8" />
+      <module name="demo-adapter-model-6-00" target="1.8" />
+      <module name="demo-adapter-model-6-01" target="1.8" />
+      <module name="demo-builder-design-3-01" target="1.8" />
+      <module name="demo-builder-design-3-02" target="1.8" />
+      <module name="demo-bulider-design-3-00" target="1.8" />
+      <module name="demo-common" target="1.8" />
+      <module name="demo-design-bridge-7-01" target="1.8" />
+      <module name="demo-design-combin-8-01" target="1.8" />
+      <module name="demo-factory-method-00" target="1.8" />
+      <module name="demo-factory-model-01" target="1.8" />
+      <module name="demo-prototype-factory-4-00" target="1.8" />
+      <module name="demo-singleton-model-00" target="1.8" />
+      <module name="design" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="demo-abstract-factory-01" options="-parameters" />
+      <module name="demo-abstract-factroy-00" options="-parameters" />
+      <module name="demo-adapter-model-6-00" options="-parameters" />
+      <module name="demo-adapter-model-6-01" options="-parameters" />
+      <module name="demo-builder-design-3-01" options="-parameters" />
+      <module name="demo-builder-design-3-02" options="-parameters" />
+      <module name="demo-bulider-design-3-00" options="-parameters" />
+      <module name="demo-common" options="-parameters" />
+      <module name="demo-design-bridge-7-01" options="-parameters" />
+      <module name="demo-design-combin-8-01" options="-parameters" />
+      <module name="demo-factory-method-00" options="-parameters" />
+      <module name="demo-factory-model-01" options="-parameters" />
+      <module name="demo-prototype-factory-4-00" options="-parameters" />
+      <module name="demo-singleton-model-00" options="-parameters" />
+    </option>
+  </component>
+</project>

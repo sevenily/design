@@ -1,0 +1,4 @@
+server:
+  port: 9905
+  servlet:
+    context-path: /builder
