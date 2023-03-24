@@ -27,3 +27,4 @@ target
 *.cmd
 .jar
 .properties
+.idea

@@ -38,6 +38,7 @@
         <module>demo-design-bridge-7-01</module>
         <module>demo-design-combin-8-01</module>
         <module>action-08-strategy/action-08-strategy</module>
+        <module>structure-07-agent</module>
     </modules>
 
 
@@ -64,6 +65,13 @@
             <artifactId>lombok</artifactId>
         </dependency>
 
+
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-nop</artifactId>
+            <version>1.7.2</version>
+            <type>jar</type>
+        </dependency>
 
         <!-- swagger 3.0.0 版本  http://localhost:8889/swagger-ui/-->
         <dependency>
