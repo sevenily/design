@@ -1,0 +1,7 @@
+server:
+  port: 8888
+
+design:
+  door:
+    enabled: true
+    userStr: 1001,aaa,ccc # 白名单用户ID，多个，隔开
